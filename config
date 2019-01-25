@@ -783,7 +783,7 @@ logfile privoxy.log
 #listen-address  127.0.0.1:8118
 #listen-address  0.0.0.0:8080
 listen-address  0.0.0.0:8080
-forward-socks5 / 192.168.1.167:7073 .
+forward-socks5 / 192.168.1.167:7074 .
 #permit-access   192.168.0.0/16  172.17.0.0/16   127.0.0.1/32
 permit-access   192.168.0.0/16
 #
